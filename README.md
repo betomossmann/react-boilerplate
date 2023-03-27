@@ -1,0 +1,1 @@
+# A simple boilerplate for creating a project with React, TypeScript and Jest!
